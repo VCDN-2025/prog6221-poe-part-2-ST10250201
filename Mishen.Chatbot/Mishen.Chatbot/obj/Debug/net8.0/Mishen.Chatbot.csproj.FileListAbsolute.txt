@@ -1,0 +1,4 @@
+C:\Users\Mishen Naidoo\source\repos\Mishen.Chatbot\Mishen.Chatbot\obj\Debug\net8.0\Mishen.Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishen Naidoo\source\repos\Mishen.Chatbot\Mishen.Chatbot\obj\Debug\net8.0\Mishen.Chatbot.AssemblyInfoInputs.cache
+C:\Users\Mishen Naidoo\source\repos\Mishen.Chatbot\Mishen.Chatbot\obj\Debug\net8.0\Mishen.Chatbot.AssemblyInfo.cs
+C:\Users\Mishen Naidoo\source\repos\Mishen.Chatbot\Mishen.Chatbot\obj\Debug\net8.0\Mishen.Chatbot.csproj.CoreCompileInputs.cache
